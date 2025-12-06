@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  background-color: #1E1E2A;
+}
+
+select option {
+  background-color: #16161A; /* your card-dark */
+  color: white;
+}
